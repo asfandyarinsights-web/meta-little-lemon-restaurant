@@ -110,8 +110,6 @@ Through this project, I practiced:
 BS Information Technology Student | Front-End Development Learner
 
 - GitHub: [@asfandyarinsights-web](https://github.com/asfandyarinsights-web)
-- LinkedIn: [Connect with me](www.linkedin.com/in/asfandyar-chandio-018649388)
-
----
+- LinkedIn: [Asfandyar Chandio](https://www.linkedin.com/in/asfandyar-chandio-018649388/)
 
 ⭐ If you find this project interesting, feel free to explore the repository!
